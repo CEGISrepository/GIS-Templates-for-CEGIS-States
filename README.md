@@ -13,9 +13,10 @@ Shapefiles are available for different administrative levels, generally:
 - Districts
 - Sub-Districts
 - Gram Panchayats/Villages
-
+  
 #### Note
-The Administration levels have different names in different states or might have added levels of administration. Kindly refer to the README.md for the particular state for the same.
+- The Administration levels have different names in different states or might have added levels of administration. Kindly refer to the README.md for the particular state for the same.
+- If .shp file is being used, please make sure all the other supporting files are in the same folder as the .shp file. Similarly upload the supporting files on Colab while running the Python code.                 
 
 ## Usage Instructions for different platforms
 
@@ -45,7 +46,7 @@ The Administration levels have different names in different states or might have
 
 ### Google Colab Python Choropleth
 - Open google colab notebook
-- Paste/Upload shapefile and csv files on the files tab in Colab session found on the left sidebar usually. 
+- Paste/Upload shapefile and other supporting files (.dbf, .shx, .cpg etc) and the csv file containing the data on the files tab in Colab session found on the left sidebar usually. 
 - Copy path of files by right clicking on the file and clicking on "Copy as path".
 - Paste the paths wherever indicated for shapefile and csv each.
 - Go to Runtime-> Run all
