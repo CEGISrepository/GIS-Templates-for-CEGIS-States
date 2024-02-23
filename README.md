@@ -5,7 +5,7 @@ Shapefiles are available for the following levels of administration:
 - State  
 - District  
 - Sub-District or Taluk  
-- Hobli  
+- Hobli
 
 Combinations of different levels are also available, namely:  
 - District-Wise Taluk division
