@@ -1,0 +1,800 @@
+h_id,h_name,sd_name,d_name
+1,Chikkodi,Chikkodi,Belagavi
+2,Sadalaga,Chikkodi,Belagavi
+3,Nagaramunnoli,Chikkodi,Belagavi
+4,Anantapura,Athani,Belagavi
+5,Telasanga,Athani,Belagavi
+6,Athani,Athani,Belagavi
+7,Rayabaga,Raibag,Belagavi
+8,Kudachi,Raibag,Belagavi
+9,Gokaka,Gokak,Belagavi
+10,Kowjalagi,Gokak,Belagavi
+11,Hukkeri,Hukkeri,Belagavi
+12,Yamakanamardi,Hukkeri,Belagavi
+13,Sankeshvara,Hukkeri,Belagavi
+14,Bagevadi,Belagavi,Belagavi
+15,Kakati,Belagavi,Belagavi
+16,Uchaganva,Belagavi,Belagavi
+17,Belagavi,Belagavi,Belagavi
+18,Khanapura,Khanapur,Belagavi
+19,Beedi,Khanapur,Belagavi
+20,Gunji,Khanapur,Belagavi
+21,Jamboti,Khanapur,Belagavi
+22,Savadatti,Savadatti,Belagavi
+23,Munavalli,Savadatti,Belagavi
+24,Muragoda,Savadatti,Belagavi
+25,Bailahongala,Bailhongal,Belagavi
+26,Nesaragi,Bailhongal,Belagavi
+27,Surebana,Ramadurg,Belagavi
+28,Katakola,Ramadurg,Belagavi
+29,Mudakavi,Ramadurg,Belagavi
+30,K chandaragi,Ramadurg,Belagavi
+31,Kittura,Kitthuru,Belagavi
+32,Sadalaga,Nippani,Belagavi
+33,Nippani,Nippani,Belagavi
+34,Kagavada,Kagavada,Belagavi
+35,Arabhanvi,Mudalagi,Belagavi
+36,Kowjalagi,Mudalagi,Belagavi
+37,Yaragatti,Yaragatti,Belagavi
+38,Bijapura,Bijapur,Vijayapura
+39,Nagatana,Bijapur,Vijayapura
+40,Indi,Indi,Vijayapura
+41,Ballolli,Indi,Vijayapura
+42,Sindagi,Sindagi,Vijayapura
+43,Ba bagevadi,Basavan Bagewadi,Vijayapura
+44,Ho hipparagi,Basavan Bagewadi,Vijayapura
+45,Managuli,Basavan Bagewadi,Vijayapura
+46,Muddebihala,Muddebihal,Vijayapura
+47,Davalagi,Muddebihal,Vijayapura
+48,Nalatavada,Muddebihal,Vijayapura
+49,Nidagundi,Nidagundi,Vijayapura
+50,Babaleshvara,Babaleshwara,Vijayapura
+51,Mamadapura,Babaleshwara,Vijayapura
+52,Chadachana,Chadachana,Vijayapura
+53,Davalagi,Talikote,Vijayapura
+54,Talikoti,Talikote,Vijayapura
+55,Devara hipparagi,Talikote,Vijayapura
+56,Ho hipparagi,Talikote,Vijayapura
+57,Tikota,Tikota,Vijayapura
+58,Kolhara,Kolhara,Vijayapura
+59,Sindagi,Devara Hipparagi,Vijayapura
+60,Ho hipparagi,Devara Hipparagi,Vijayapura
+61,Devara hipparagi,Devara Hipparagi,Vijayapura
+62,Alamela,Alamela,Vijayapura
+63,Basavakalyana,Basavakalyan,Bidar
+64,Mantala,Basavakalyan,Bidar
+65,Rajeshvara,Basavakalyan,Bidar
+66,Mudabi,Basavakalyan,Bidar
+67,Kohinura,Basavakalyan,Bidar
+68,Bhalki,Bhalki,Bidar
+69,Sayaganva,Bhalki,Bidar
+70,Nitturabh,Bhalki,Bidar
+71,Khataka chinchuli,Bhalki,Bidar
+72,Lakhanaganva,Bhalki,Bidar
+73,Halabarga,Bhalki,Bidar
+74,Owradabi,Aurad,Bidar
+75,Chintaki,Aurad,Bidar
+76,Santapura,Aurad,Bidar
+77,Beedara uttara,Bidar,Bidar
+78,Beedaradakshina,Bidar,Bidar
+79,Mannalli,Bidar,Bidar
+80,Bagadala,Bidar,Bidar
+81,Kamatana,Bidar,Bidar
+82,Janavada,Bidar,Bidar
+83,Humanabada,Humnabad,Bidar
+84,Hallilikhedabi,Humnabad,Bidar
+85,Dubalagundi,Humnabad,Bidar
+86,Chitaguppa,Chittaguppa,Bidar
+87,Nirna,Chittaguppa,Bidar
+88,Bemalakheda,Chittaguppa,Bidar
+89,Tanakusanura,Kamalanagara,Bidar
+90,Kamalanagara,Kamalanagara,Bidar
+91,Dabaka,Kamalanagara,Bidar
+92,Hulasura,Hulasuru,Bidar
+93,Lingasuguru,Lingasugur,Raichur
+94,Gurugunta,Lingasugur,Raichur
+95,Mudagal,Lingasugur,Raichur
+96,Devadurga,Devdurga,Raichur
+97,Arakera,Devdurga,Raichur
+98,Jalahalli,Devdurga,Raichur
+99,Gabburu,Devdurga,Raichur
+100,Gillesuguru,Raichur,Raichur
+101,Chandrabanda,Raichur,Raichur
+102,Kalamala,Raichur,Raichur
+103,Devasuguru,Raichur,Raichur
+104,Yaragera,Raichur,Raichur
+105,Rayachuru,Raichur,Raichur
+106,Manavi,Manvi,Raichur
+107,Hirekotnikala,Manvi,Raichur
+108,Kurdi,Manvi,Raichur
+109,Sindhanura,Sindhanur,Raichur
+110,Salgunda,Sindhanur,Raichur
+111,Huda,Sindhanur,Raichur
+112,Gorebala,Sindhanur,Raichur
+113,Jalihala,Sindhanur,Raichur
+114,Javalagera,Sindhanur,Raichur
+115,Kunnatagi,Sindhanur,Raichur
+116,Valkandinni,Sindhanur,Raichur
+117,Badarli,Sindhanur,Raichur
+118,Hedaginala,Sindhanur,Raichur
+119,Gunjalli,Sindhanur,Raichur
+120,Turvihala,Sindhanur,Raichur
+121,Lingasuguru,Maski,Raichur
+122,Maski,Maski,Raichur
+123,Halapura,Maski,Raichur
+124,Pamanakallura,Maski,Raichur
+125,Balaganura,Maski,Raichur
+126,Gunjalli,Maski,Raichur
+127,Turvihala,Maski,Raichur
+128,Gudadura,Maski,Raichur
+129,Kalluru,Sirivara,Raichur
+130,Mallata,Sirivara,Raichur
+131,Siravara,Sirivara,Raichur
+132,Kavitala,Sirivara,Raichur
+133,Yalaburga,Yelburga,Koppal
+134,Hirevankalakunta,Yelburga,Koppal
+135,Kushtagi,Kushtagi,Koppal
+136,Tavaragera,Kushtagi,Koppal
+137,Hanamasagara,Kushtagi,Koppal
+138,Hanamanala,Kushtagi,Koppal
+139,Venkatagiri,Gangavathi,Koppal
+140,Marali,Gangavathi,Koppal
+141,Gangavati,Gangavathi,Koppal
+142,Koppala,koppal,Koppal
+143,Alavandi,koppal,Koppal
+144,Irakallagada,koppal,Koppal
+145,Hitnala,koppal,Koppal
+146,Karatagi,Karatagi,Koppal
+147,Siddapura,Karatagi,Koppal
+148,Kukanura,Kukanuru,Koppal
+149,Mangaluru,Kukanuru,Koppal
+150,Hulihaidara,Kanakagiri,Koppal
+151,Navali,Kanakagiri,Koppal
+152,Kanakagiri,Kanakagiri,Koppal
+153,Naragunda,Naragund,Gadag
+154,Konnura,Naragund,Gadag
+155,Rona,Rona,Gadag
+156,Naregalla,Rona,Gadag
+157,Holealura,Rona,Gadag
+158,Gadaga,Gadag,Gadag
+159,Betageri,Gadag,Gadag
+160,Shirahatti,Shirahatti,Gadag
+161,Lakshmeshvara,Shirahatti,Gadag
+162,Mundaragi,Mundargi,Gadag
+163,Dambala,Mundargi,Gadag
+164,Rona,Gajendragad,Gadag
+165,Naregalla,Gajendragad,Gadag
+166,Lakshmeshvara,Laxmeshwar,Gadag
+167,Garaga,Dharwad,Dharwad
+168,Dharavada,Dharwad,Dharwad
+169,Amminabavi,Dharwad,Dharwad
+170,Moraba,Navalgund,Dharwad
+171,Hubballi,Hubli,Dharwad
+172,Chabbi,Hubli,Dharwad
+173,Shiraguppi,Hubli,Dharwad
+174,Kalaghatagi,Kalgatgi,Dharwad
+175,Tabakadahonnihalli,Kalgatgi,Dharwad
+176,Dhummavada,Kalgatgi,Dharwad
+177,Kundagola,Kundgol,Dharwad
+178,Sanshi,Kundgol,Dharwad
+179,Hubballi,Hubballi Nagara,Dharwad
+180,Chabbi,Hubballi Nagara,Dharwad
+181,Alnavara,Alnavara,Dharwad
+182,Annigeri,Annigere,Dharwad
+183,Bada,Karwar,Uttara Kannada
+184,Ghadasayi,Karwar,Uttara Kannada
+185,Kinnara,Karwar,Uttara Kannada
+186,Savantavada,Karwar,Uttara Kannada
+187,Supa,Joida,Uttara Kannada
+188,Kumbaravada,Joida,Uttara Kannada
+189,Kyasalarak,Joida,Uttara Kannada
+190,Sambrani,Haliyal,Uttara Kannada
+191,Haliyala,Haliyal,Uttara Kannada
+192,Murkavada,Haliyal,Uttara Kannada
+193,Yallapura,Yellapur,Uttara Kannada
+194,Manchikeri,Yellapur,Uttara Kannada
+195,Mundagoda,Mundgod,Uttara Kannada
+196,Pala,Mundgod,Uttara Kannada
+197,Shirasi,Sirsi,Uttara Kannada
+198,Banavasi,Sirsi,Uttara Kannada
+199,Sampakhanda,Sirsi,Uttara Kannada
+200,Hulekal,Sirsi,Uttara Kannada
+201,Ankola,Ankola,Uttara Kannada
+202,Belekeri,Ankola,Uttara Kannada
+203,Basagoda,Ankola,Uttara Kannada
+204,Balale,Ankola,Uttara Kannada
+205,Kujalli,Kumta,Uttara Kannada
+206,Kumata,Kumta,Uttara Kannada
+207,Mirjana,Kumta,Uttara Kannada
+208,Gokarna,Kumta,Uttara Kannada
+209,Kondli,Siddapur,Uttara Kannada
+210,Umbalamane,Siddapur,Uttara Kannada
+211,Kodkani,Siddapur,Uttara Kannada
+212,Honnavara,Honnavar,Uttara Kannada
+213,Mavinakurva,Honnavar,Uttara Kannada
+214,Manki,Honnavar,Uttara Kannada
+215,Mavalli,Bhatkal,Uttara Kannada
+216,Susagadi,Bhatkal,Uttara Kannada
+217,Dandeli,Dandelli,Uttara Kannada
+218,Shigganva,Shiggaon,Haveri
+219,Dundashi,Shiggaon,Haveri
+220,Bankapura,Shiggaon,Haveri
+221,Savanura,Savanur,Haveri
+222,Hattimattura,Savanur,Haveri
+223,Hanagalla,Hangal,Haveri
+224,Akkialura,Hangal,Haveri
+225,Bammanalli,Hangal,Haveri
+226,Haveri,Haveri,Haveri
+227,Karajagi,Haveri,Haveri
+228,Guttala,Haveri,Haveri
+229,Byadagi,Byadagi,Haveri
+230,Kaginelli,Byadagi,Haveri
+231,Hirekerura,Hirekerur,Haveri
+232,Hansabhavi,Hirekerur,Haveri
+233,Ranebennura,Ranebennur,Haveri
+234,Kuppelura,Ranebennur,Haveri
+235,Medleri,Ranebennur,Haveri
+236,Hirekerura,Ratteehalli,Haveri
+237,Ratteehalli,Ratteehalli,Haveri
+238,Siruguppa,Siraguppa,Ballari
+239,Hachcholli,Siraguppa,Ballari
+240,Karuru,Siraguppa,Ballari
+241,Tekkalakote,Siraguppa,Ballari
+242,Ballari,Ballari,Ballari
+243,Kurugodu,Ballari,Ballari
+244,Koluru,Ballari,Ballari
+245,Moka,Ballari,Ballari
+246,Rupanagudi,Ballari,Ballari
+247,Sanduru,Sonduru,Ballari
+248,Toranagallu,Sonduru,Ballari
+249,Choranuru,Sonduru,Ballari
+250,Kurugodu,Kurugodu,Ballari
+251,Koluru,Kurugodu,Ballari
+252,Kurugodu,Kampli,Ballari
+253,Kampli,Kampli,Ballari
+254,Kasaba,Molakalmuru,Chitradurga
+255,Devasamudra,Molakalmuru,Chitradurga
+256,Kasaba,Challakere,Chitradurga
+257,Parashura0pura,Challakere,Chitradurga
+258,Talaku,Challakere,Chitradurga
+259,Nayakanahatti,Challakere,Chitradurga
+260,Kasaba,Chitradurga,Chitradurga
+261,Bharamasagara,Chitradurga,Chitradurga
+262,Turuvanuru,Chitradurga,Chitradurga
+263,Hireguntanuru,Chitradurga,Chitradurga
+264,Beedurga,Holalkere,Chitradurga
+265,Kasaba,Holalkere,Chitradurga
+266,Ramagiri,Holalkere,Chitradurga
+267,Talya,Holalkere,Chitradurga
+268,Kasaba,Hosadurga,Chitradurga
+269,Madadakere,Hosadurga,Chitradurga
+270,Mattodu,Hosadurga,Chitradurga
+271,Shreerampura,Hosadurga,Chitradurga
+272,Kasaba,Hiriyur,Chitradurga
+273,Aimangala,Hiriyur,Chitradurga
+274,Dharmapura,Hiriyur,Chitradurga
+275,J g halli,Hiriyur,Chitradurga
+276,Kasaba,Harihar,Davanagere
+277,Malebennuru,Harihar,Davanagere
+278,Kasaba,Jagaluru,Davanagere
+279,Bilichodu,Jagaluru,Davanagere
+280,Sokke,Jagaluru,Davanagere
+281,Kasaba,Davanagere,Davanagere
+282,Anagodu,Davanagere,Davanagere
+283,Mayakonda,Davanagere,Davanagere
+284,Sasvehalli-2,Honnali,Davanagere
+285,Kasaba,Honnali,Davanagere
+286,Sasvehalli-1,Honnali,Davanagere
+287,Govinakovi-2,Honnali,Davanagere
+288,Basavapattana-1,Channagiri,Davanagere
+289,Basavapattana-2,Channagiri,Davanagere
+290,Kasaba,Channagiri,Davanagere
+291,Santebennuru-1,Channagiri,Davanagere
+292,Santebennuru-2,Channagiri,Davanagere
+293,Ubrani,Channagiri,Davanagere
+294,Govinakovi-1,Nyamati,Davanagere
+295,Belagutti,Nyamati,Davanagere
+296,Kasaba,Sagara,Shivamogga
+297,Talaguppa,Sagara,Shivamogga
+298,Barangi,Sagara,Shivamogga
+299,Anandapura,Sagara,Shivamogga
+300,Avinahalli,Sagara,Shivamogga
+301,Karuru,Sagara,Shivamogga
+302,Kasaba,Soraba,Shivamogga
+303,Kuppagadde,Soraba,Shivamogga
+304,Chandragutti,Soraba,Shivamogga
+305,Ulavi,Soraba,Shivamogga
+306,Jade,Soraba,Shivamogga
+307,Anavatti,Soraba,Shivamogga
+308,Kasaba,Shikaripura,Shivamogga
+309,Udugani,Shikaripura,Shivamogga
+310,Talagunda,Shikaripura,Shivamogga
+311,Hosuru,Shikaripura,Shivamogga
+312,Anjanapura,Shikaripura,Shivamogga
+313,Kasaba,Hosanagar,Shivamogga
+314,Nagara,Hosanagar,Shivamogga
+315,Kerehalli,Hosanagar,Shivamogga
+316,Huncha,Hosanagar,Shivamogga
+317,Kasaba,Thirthahalli,Shivamogga
+318,Mutturu,Thirthahalli,Shivamogga
+319,Agumbe,Thirthahalli,Shivamogga
+320,Mandagadde,Thirthahalli,Shivamogga
+321,Agrahara,Thirthahalli,Shivamogga
+322,Kasabaai,Shimoga,Shivamogga
+323,Kasabaaiai,Shimoga,Shivamogga
+324,Nidigeai,Shimoga,Shivamogga
+325,Nidigeaiai,Shimoga,Shivamogga
+326,Holaluruai,Shimoga,Shivamogga
+327,Holaluraaiai,Shimoga,Shivamogga
+328,Kunsi,Shimoga,Shivamogga
+329,Haranahalli,Shimoga,Shivamogga
+330,Ayanuru,Shimoga,Shivamogga
+331,Kasaba ai,Bhadravathi,Shivamogga
+332,Kasaba aiai,Bhadravathi,Shivamogga
+333,Kudligere,Bhadravathi,Shivamogga
+334,Holehonnuru ai,Bhadravathi,Shivamogga
+335,Holehonnuru aiai,Bhadravathi,Shivamogga
+336,Holehonnuru aiaiai,Bhadravathi,Shivamogga
+337,Kundapura,Kundapur,Udupi
+338,Vandse,Kundapur,Udupi
+339,Udupi,Udupi,Udupi
+340,Ajekaru,Karkala,Udupi
+341,Karkala,Karkala,Udupi
+342,Bainduru,Bynduru,Udupi
+343,Kota,Bramhavara,Udupi
+344,Brahmavara,Bramhavara,Udupi
+345,Kapu,Kapu,Udupi
+346,Ajekaru,Hebri,Udupi
+347,Kundapura,Hebri,Udupi
+348,Kasaba,Sringeri,Chikkamagaluru
+349,Kigga,Sringeri,Chikkamagaluru
+350,Kasaba,Koppa,Chikkamagaluru
+351,Hariharapura,Koppa,Chikkamagaluru
+352,Megunda,Koppa,Chikkamagaluru
+353,Kasaba,Narasimharajapura,Chikkamagaluru
+354,Balehonnuru,Narasimharajapura,Chikkamagaluru
+355,Kasaba,Tarikere,Chikkamagaluru
+356,Lakkavalli,Tarikere,Chikkamagaluru
+357,Lingadahalli,Tarikere,Chikkamagaluru
+358,Amrutapura,Tarikere,Chikkamagaluru
+359,Kasaba,Kadur,Chikkamagaluru
+360,Beeruru,Kadur,Chikkamagaluru
+361,Yagati,Kadur,Chikkamagaluru
+362,Hirenalluru,Kadur,Chikkamagaluru
+363,Singatagere,Kadur,Chikkamagaluru
+364,Sakharayapattana,Kadur,Chikkamagaluru
+365,Panchanahalli,Kadur,Chikkamagaluru
+366,Kasaba,Chikmagalur,Chikkamagaluru
+367,Ambale,Chikmagalur,Chikkamagaluru
+368,Vastare,Chikmagalur,Chikkamagaluru
+369,Avati,Chikmagalur,Chikkamagaluru
+370,Jagara,Chikmagalur,Chikkamagaluru
+371,Alduru,Chikmagalur,Chikkamagaluru
+372,Khandya,Chikmagalur,Chikkamagaluru
+373,Lakya,Chikmagalur,Chikkamagaluru
+374,Kasaba,Mudigere,Chikkamagaluru
+375,Baluru,Mudigere,Chikkamagaluru
+376,Gonibeedu,Mudigere,Chikkamagaluru
+377,Banakal,Mudigere,Chikkamagaluru
+378,Ajjampura,Ajjampura,Chikkamagaluru
+379,Shivani,Ajjampura,Chikkamagaluru
+380,Chowlahiriyur,Ajjampura,Chikkamagaluru
+381,Kalasa,Kalasa,Chikkamagaluru
+382,Kasaba,Chiknayakanahalli,Tumakuru
+383,Kandikere,Chiknayakanahalli,Tumakuru
+384,Shettikere,Chiknayakanahalli,Tumakuru
+385,Handanakere,Chiknayakanahalli,Tumakuru
+386,Huliyaru,Chiknayakanahalli,Tumakuru
+387,Kasaba,Sira,Tumakuru
+388,Kallambella,Sira,Tumakuru
+389,Gowdagere,Sira,Tumakuru
+390,Hulikunte,Sira,Tumakuru
+391,Bukkapattana,Sira,Tumakuru
+392,Kasaba,Pavagada,Tumakuru
+393,Nagalamadike,Pavagada,Tumakuru
+394,Nidagal hobali,Pavagada,Tumakuru
+395,Y n hosakote,Pavagada,Tumakuru
+396,Dodderi,Madhugiri,Tumakuru
+397,Ai d halli,Madhugiri,Tumakuru
+398,Kodigenahalli,Madhugiri,Tumakuru
+399,Puravara,Madhugiri,Tumakuru
+400,Kasaba,Madhugiri,Tumakuru
+401,Midigeshi,Madhugiri,Tumakuru
+402,Kasaba,Koratagere,Tumakuru
+403,Channarayanadurga,Koratagere,Tumakuru
+404,Holavanahalli,Koratagere,Tumakuru
+405,Kolala,Koratagere,Tumakuru
+406,Hebburu,Tumkur,Tumakuru
+407,Bellavi,Tumkur,Tumakuru
+408,Guluru,Tumkur,Tumakuru
+409,Urdigere,Tumkur,Tumakuru
+410,Kora,Tumkur,Tumakuru
+411,Kasaba north,Tumkur,Tumakuru
+412,Kasaba south,Tumkur,Tumakuru
+413,Kasaba east,Tumkur,Tumakuru
+414,Kasaba west,Tumkur,Tumakuru
+415,Kasaba,Gubbi,Tumakuru
+416,Nitturu,Gubbi,Tumakuru
+417,Cheluru,Gubbi,Tumakuru
+418,Kadaba,Gubbi,Tumakuru
+419,Hagalavadi,Gubbi,Tumakuru
+420,C s pura,Gubbi,Tumakuru
+421,Kasaba,Tiptur,Tumakuru
+422,Honnavalli,Tiptur,Tumakuru
+423,Kibbanahalli,Tiptur,Tumakuru
+424,Nonavinakere,Tiptur,Tumakuru
+425,Kasaba,Turuvekere,Tumakuru
+426,Dandinashivara,Turuvekere,Tumakuru
+427,Mayasandra,Turuvekere,Tumakuru
+428,Dabbeghatta,Turuvekere,Tumakuru
+429,Kasaba,Kunigal,Tumakuru
+430,Kottagere,Kunigal,Tumakuru
+431,Hutridurga,Kunigal,Tumakuru
+432,Yadiyuru,Kunigal,Tumakuru
+433,Amrutturu,Kunigal,Tumakuru
+434,Huliyuru durga,Kunigal,Tumakuru
+435,Kasaba,Srinivaspura,Kolara
+436,Yelduru,Srinivaspura,Kolara
+437,Ronuru,Srinivaspura,Kolara
+438,Nelavanki,Srinivaspura,Kolara
+439,Rayalpadu,Srinivaspura,Kolara
+440,Kasaba,Kolar,Kolara
+441,Vakkaleri,Kolar,Kolara
+442,Narasapura,Kolar,Kolara
+443,Vemagallu,Kolar,Kolara
+444,Sugaturu,Kolar,Kolara
+445,Holuru,Kolar,Kolara
+446,Hutturu,Kolar,Kolara
+447,Kasaba,Malur,Kolara
+448,Tekal,Malur,Kolara
+449,Lakkuru,Malur,Kolara
+450,Masti,Malur,Kolara
+451,Kasaba,Bangarpet,Kolara
+452,Rabartasan pete,Bangarpet,Kolara
+453,Kamasamudra,Bangarpet,Kolara
+454,Budikote,Bangarpet,Kolara
+455,Kasaba,Mulabagilu,Kolara
+456,Avani,Mulabagilu,Kolara
+457,Duggasandra,Mulabagilu,Kolara
+458,Bairakuru,Mulabagilu,Kolara
+459,Tayaluru,Mulabagilu,Kolara
+460,Rabartasan pete,K.G.F,Kolara
+461,Betamangala,K.G.F,Kolara
+462,Kyasamballi,K.G.F,Kolara
+463,Kasaba1,Bangalore (North),Bengaluru (Urban)
+464,Kasaba2,Bangalore (North),Bengaluru (Urban)
+465,Yashavantapura1,Bangalore (North),Bengaluru (Urban)
+466,Yashavantapura2,Bangalore (North),Bengaluru (Urban)
+467,Dasanapura1,Bangalore (North),Bengaluru (Urban)
+468,Dasanapura2,Bangalore (North),Bengaluru (Urban)
+469,Dasanapura3,Bangalore (North),Bengaluru (Urban)
+470,Yeshwanthapura,Bangalore (North),Bengaluru (Urban)
+471,Kasaba,Bangalore (North),Bengaluru (Urban)
+472,Uttarahalli -1,Bangalore-South,Bengaluru (Urban)
+473,Uttarahalli -2,Bangalore-South,Bengaluru (Urban)
+474,Uttarahalli -3,Bangalore-South,Bengaluru (Urban)
+475,Uttarahalli -4,Bangalore-South,Bengaluru (Urban)
+476,Beguru - 1,Bangalore-South,Bengaluru (Urban)
+477,Beguru - 2,Bangalore-South,Bengaluru (Urban)
+478,Beguru - 3,Bangalore-South,Bengaluru (Urban)
+479,Kengeri - 1,Bangalore-South,Bengaluru (Urban)
+480,Kengeri - 2,Bangalore-South,Bengaluru (Urban)
+481,Kengeri - 3,Bangalore-South,Bengaluru (Urban)
+482,Tavarekere - 1,Bangalore-South,Bengaluru (Urban)
+483,Tavarekere - 2,Bangalore-South,Bengaluru (Urban)
+484,Tavarekere - 3,Bangalore-South,Bengaluru (Urban)
+485,Kengeri-4,Bangalore-South,Bengaluru (Urban)
+486,Uttarahalli -5,Bangalore-South,Bengaluru (Urban)
+487,Uttarahalli,Bangalore-South,Bengaluru (Urban)
+488,Kasaba,Anekal,Bengaluru (Urban)
+489,Jigani,Anekal,Bengaluru (Urban)
+490,Attibele1,Anekal,Bengaluru (Urban)
+491,Attibele2,Anekal,Bengaluru (Urban)
+492,Sarjapura1,Anekal,Bengaluru (Urban)
+493,Sarjapura2,Anekal,Bengaluru (Urban)
+494,Kasaba2,Anekal,Bengaluru (Urban)
+495,Jigani2,Anekal,Bengaluru (Urban)
+496,Sarjapura3,Anekal,Bengaluru (Urban)
+497,K r pura1,Bangalore-East,Bengaluru (Urban)
+498,K r pura2,Bangalore-East,Bengaluru (Urban)
+499,K r pura3,Bangalore-East,Bengaluru (Urban)
+500,Varturu1,Bangalore-East,Bengaluru (Urban)
+501,Varturu2,Bangalore-East,Bengaluru (Urban)
+502,Bidarahalli1,Bangalore-East,Bengaluru (Urban)
+503,Bidarahalli2,Bangalore-East,Bengaluru (Urban)
+504,Mahadevapura,Bangalore-East,Bengaluru (Urban)
+505,Marathahalli,Bangalore-East,Bengaluru (Urban)
+506,Bidarahalli3,Bangalore-East,Bengaluru (Urban)
+507,K.r.puram,Bangalore-East,Bengaluru (Urban)
+508,Yalahanka1,Yelahanka,Bengaluru (Urban)
+509,Yalahanka2,Yelahanka,Bengaluru (Urban)
+510,Yalahanka3,Yelahanka,Bengaluru (Urban)
+511,Jala1,Yelahanka,Bengaluru (Urban)
+512,Jala2,Yelahanka,Bengaluru (Urban)
+513,Hesarughatta1,Yelahanka,Bengaluru (Urban)
+514,Hesarughatta2,Yelahanka,Bengaluru (Urban)
+515,Jala3,Yelahanka,Bengaluru (Urban)
+516,Yelahanka,Yelahanka,Bengaluru (Urban)
+517,Kasaba,Nelamangala,Bengaluru (Rural)
+518,Sompura,Nelamangala,Bengaluru (Rural)
+519,Tyamagundlu,Nelamangala,Bengaluru (Rural)
+520,Kasaba-2,Nelamangala,Bengaluru (Rural)
+521,Sompura-2,Nelamangala,Bengaluru (Rural)
+522,Tyamagundlu-2,Nelamangala,Bengaluru (Rural)
+523,Kasaba,Doddaballapura,Bengaluru (Rural)
+524,Sasalu,Doddaballapura,Bengaluru (Rural)
+525,Madure,Doddaballapura,Bengaluru (Rural)
+526,Doddabelavangala,Doddaballapura,Bengaluru (Rural)
+527,Tubagere,Doddaballapura,Bengaluru (Rural)
+528,Vijayapura,Devanahalli,Bengaluru (Rural)
+529,Kasaba,Devanahalli,Bengaluru (Rural)
+530,Channarayapattana,Devanahalli,Bengaluru (Rural)
+531,Kundana,Devanahalli,Bengaluru (Rural)
+532,Kasaba,Hoskote,Bengaluru (Rural)
+533,Anugondanahalli,Hoskote,Bengaluru (Rural)
+534,Jadigenahalli,Hoskote,Bengaluru (Rural)
+535,Sulibele,Hoskote,Bengaluru (Rural)
+536,Nandagudi,Hoskote,Bengaluru (Rural)
+537,Kasaba,Krishnarajpet,Mandya
+538,Kikkeri,Krishnarajpet,Mandya
+539,Sheelanere,Krishnarajpet,Mandya
+540,Bukinakere,Krishnarajpet,Mandya
+541,Akkihebbal,Krishnarajpet,Mandya
+542,Santebachahalli,Krishnarajpet,Mandya
+543,Kasaba,Nagamangala,Mandya
+544,Devalapura,Nagamangala,Mandya
+545,Belluru,Nagamangala,Mandya
+546,Bindiganavile,Nagamangala,Mandya
+547,Honakere,Nagamangala,Mandya
+548,Kasaba1,Pandavpura,Mandya
+549,Kasaba2,Pandavpura,Mandya
+550,Chinakurali,Pandavpura,Mandya
+551,Melukote,Pandavpura,Mandya
+552,Kasaba,Srirangapatna,Mandya
+553,K shettihalli-1,Srirangapatna,Mandya
+554,K shettihalli-2,Srirangapatna,Mandya
+555,Arakere,Srirangapatna,Mandya
+556,Belagola,Srirangapatna,Mandya
+557,Kasaba - 1,Mandya,Mandya
+558,Kasaba - 2,Mandya,Mandya
+559,Kottatti - 1,Mandya,Mandya
+560,Kottatti - 2,Mandya,Mandya
+561,Keragodu -1,Mandya,Mandya
+562,Keragodu - 2,Mandya,Mandya
+563,Dudda - 1,Mandya,Mandya
+564,Dudda - 2,Mandya,Mandya
+565,Basaralu - 1,Mandya,Mandya
+566,Basaralu - 2,Mandya,Mandya
+567,Kasaba-1ne valaya,Maddur,Mandya
+568,Kasaba-aiai ne valaya,Maddur,Mandya
+569,Ataguru hobali,Maddur,Mandya
+570,Koppa hobali,Maddur,Mandya
+571,Koppa-aine valaya,Maddur,Mandya
+572,Koppa-aiaine valaya,Maddur,Mandya
+573,Koppa -aiaiaine valaya,Maddur,Mandya
+574,Ch a kere aine valaya,Maddur,Mandya
+575,Ch a kere - aiaine valaya,Maddur,Mandya
+576,Ch a kere- aiaiaine valaya,Maddur,Mandya
+577,Kasaba - ai,Malavalli,Mandya
+578,Kasaba - aiai,Malavalli,Mandya
+579,Kasaba- aiaiai,Malavalli,Mandya
+580,Kirugavalu hobali ai,Malavalli,Mandya
+581,Kirugavalu hobali aiai,Malavalli,Mandya
+582,Kirugavalu hobali aiaiai,Malavalli,Mandya
+583,B g pura hobali ai,Malavalli,Mandya
+584,B g pura hobali aiai,Malavalli,Mandya
+585,Halaguru hobali,Malavalli,Mandya
+586,Kasaba,Sakleshpura,Hassan
+587,Belagodu,Sakleshpura,Hassan
+588,Hetturu,Sakleshpura,Hassan
+589,Yasaluru,Sakleshpura,Hassan
+590,Hanubalu,Sakleshpura,Hassan
+591,Kasaba,Belur,Hassan
+592,Bikkodu,Belur,Hassan
+593,Madeehalli,Belur,Hassan
+594,Halebeedu,Belur,Hassan
+595,Arehalli,Belur,Hassan
+596,Kasaba,Arsikere,Hassan
+597,Javagal,Arsikere,Hassan
+598,Kanakatte,Arsikere,Hassan
+599,Gandasi,Arsikere,Hassan
+600,Banavara,Arsikere,Hassan
+601,Kasaba,Hassan,Hassan
+602,Salagame,Hassan,Hassan
+603,Dudda,Hassan,Hassan
+604,Shantigrama,Hassan,Hassan
+605,Kattaya,Hassan,Hassan
+606,Kasaba,Alur,Hassan
+607,Palya,Alur,Hassan
+608,Kunduru,Alur,Hassan
+609,K hosakote,Alur,Hassan
+610,Kasaba,Arkalgud,Hassan
+611,Mallipattana,Arkalgud,Hassan
+612,Doddamagge,Arkalgud,Hassan
+613,Ramanathapura,Arkalgud,Hassan
+614,Konanuru,Arkalgud,Hassan
+615,Kasaba,Holenarasipura,Hassan
+616,Halekote,Holenarasipura,Hassan
+617,Hallimaisuru,Holenarasipura,Hassan
+618,Kasaba,Channarayapatna,Hassan
+619,Hireesave,Channarayapatna,Hassan
+620,Dandiganahalli,Channarayapatna,Hassan
+621,Baguru,Channarayapatna,Hassan
+622,Shravanabelagola,Channarayapatna,Hassan
+623,Nuggehalli,Channarayapatna,Hassan
+624,Mangaluru a,Mangalore,Dakshina Kannada
+625,Mangaluru b,Mangalore,Dakshina Kannada
+626,Suratkal,Mangalore,Dakshina Kannada
+627,Gurupura,Mangalore,Dakshina Kannada
+628,Bantvala,Bantwal,Dakshina Kannada
+629,Panemangaluru,Bantwal,Dakshina Kannada
+630,Vitla,Bantwal,Dakshina Kannada
+631,Beltangadi,Belthangady,Dakshina Kannada
+632,Kokkada,Belthangady,Dakshina Kannada
+633,Venuru,Belthangady,Dakshina Kannada
+634,Putturu,Puttur,Dakshina Kannada
+635,Uppinangadi,Puttur,Dakshina Kannada
+636,Sulya,Sulya,Dakshina Kannada
+637,Panja,Sulya,Dakshina Kannada
+638,Mudabidri,Mudabidri,Dakshina Kannada
+639,Kadaba,Kadaba,Dakshina Kannada
+640,Panja,Kadaba,Dakshina Kannada
+641,Uppinangadi,Kadaba,Dakshina Kannada
+642,Mulki,Mulki,Dakshina Kannada
+643,Mangaluru b,Ullala,Dakshina Kannada
+644,Panemangaluru,Ullala,Dakshina Kannada
+645,Madikeri,Madikeri,Kodagu
+646,Sampaje,Madikeri,Kodagu
+647,Bhagamandala,Madikeri,Kodagu
+648,Napoklu,Madikeri,Kodagu
+649,Suntikoppa,Somavarapete,Kodagu
+650,Somavarapete,Somavarapete,Kodagu
+651,Shantalli,Somavarapete,Kodagu
+652,Shanivarasante,Somavarapete,Kodagu
+653,Kodlipete,Somavarapete,Kodagu
+654,Virajapete,Virajpet,Kodagu
+655,Ammati,Virajpet,Kodagu
+656,Hudikeri,Ponnampete,Kodagu
+657,Shreemangala,Ponnampete,Kodagu
+658,Ponnampete,Ponnampete,Kodagu
+659,Balele,Ponnampete,Kodagu
+660,Suntikoppa,Kushalanagara,Kodagu
+661,Kushalanagara,Kushalanagara,Kodagu
+662,Kasaba,Piriyapatna,Mysuru
+663,Haranahalli,Piriyapatna,Mysuru
+664,Bettadapura,Piriyapatna,Mysuru
+665,Ravanduru,Piriyapatna,Mysuru
+666,Kasaba,Hunsur,Mysuru
+667,Bilikere,Hunsur,Mysuru
+668,Hanagodu,Hunsur,Mysuru
+669,Gavadagere,Hunsur,Mysuru
+670,Kasaba,K.R.Nagar,Mysuru
+671,Hebbalu,K.R.Nagar,Mysuru
+672,Chunchanakatte,K.R.Nagar,Mysuru
+673,Hosagrahara,K.R.Nagar,Mysuru
+674,Kasaba,Mysuru,Mysuru
+675,Varuna,Mysuru,Mysuru
+676,Jayapura,Mysuru,Mysuru
+677,Ilavala,Mysuru,Mysuru
+678,Kasaba,Heggadadevanakote,Mysuru
+679,Hampapura,Heggadadevanakote,Mysuru
+680,Antarasante,Heggadadevanakote,Mysuru
+681,Kasaba,Nanjangud,Mysuru
+682,Chikkayyanachatra,Nanjangud,Mysuru
+683,Biligere,Nanjangud,Mysuru
+684,Doddakowlande,Nanjangud,Mysuru
+685,Hullahalli,Nanjangud,Mysuru
+686,Kasaba,T.Narasipura,Mysuru
+687,Bannuru,T.Narasipura,Mysuru
+688,Sosale,T.Narasipura,Mysuru
+689,Talakadu,T.Narasipura,Mysuru
+690,Muguru,T.Narasipura,Mysuru
+691,Saraguru,Saraguru,Mysuru
+692,Kandalike,Saraguru,Mysuru
+693,Chunchanakatte,Saligrama,Mysuru
+694,Saligrama,Saligrama,Mysuru
+695,Mirle,Saligrama,Mysuru
+696,Hosagrahara,Saligrama,Mysuru
+697,Kasaba,Gundlupet,Chamarajanagara
+698,Hangala,Gundlupet,Chamarajanagara
+699,Terakanambi,Gundlupet,Chamarajanagara
+700,Beguru,Gundlupet,Chamarajanagara
+701,Kasaba,Chamarajanagara,Chamarajanagara
+702,Santemarahalli,Chamarajanagara,Chamarajanagara
+703,Chandakavadi,Chamarajanagara,Chamarajanagara
+704,Haradanahalli,Chamarajanagara,Chamarajanagara
+705,Harave,Chamarajanagara,Chamarajanagara
+706,Kasaba,Yalandur,Chamarajanagara
+707,Agara,Yalandur,Chamarajanagara
+708,Kasaba,Kollegala,Chamarajanagara
+709,Palya,Kollegala,Chamarajanagara
+710,Lokkanahalli,Kollegala(Hanur),Chamarajanagara
+711,Hanuru,Kollegala(Hanur),Chamarajanagara
+712,Ramapura,Kollegala(Hanur),Chamarajanagara
+713,Kasaba,Gauribidanur,Chikkaballapura
+714,Nagaragere,Gauribidanur,Chikkaballapura
+715,D palya,Gauribidanur,Chikkaballapura
+716,Manchenahalli,Gauribidanur,Chikkaballapura
+717,Tondebavi,Gauribidanur,Chikkaballapura
+718,Hosuru,Gauribidanur,Chikkaballapura
+719,Kasaba,Chikballapur,Chikkaballapura
+720,Nandi,Chikballapur,Chikkaballapura
+721,Mandikallu,Chikballapur,Chikkaballapura
+722,Kasaba,Gudibande,Chikkaballapura
+723,Somenahalli,Gudibande,Chikkaballapura
+724,Kasaba,Bagepalli,Chikkaballapura
+725,Guluru,Bagepalli,Chikkaballapura
+726,Patapalya,Bagepalli,Chikkaballapura
+727,Cheluru,Bagepalli,Chikkaballapura
+728,Mittemari,Bagepalli,Chikkaballapura
+729,Kasaba,Shidlagatta,Chikkaballapura
+730,Jangamakote,Shidlagatta,Chikkaballapura
+731,Bashettihalli,Shidlagatta,Chikkaballapura
+732,Sadali,Shidlagatta,Chikkaballapura
+733,Kasaba,Chinthamani,Chikkaballapura
+734,Kaivara,Chinthamani,Chikkaballapura
+735,Ambajidurga,Chinthamani,Chikkaballapura
+736,Chilakalanerpu,Chinthamani,Chikkaballapura
+737,Munganahalli,Chinthamani,Chikkaballapura
+738,Muragamalla,Chinthamani,Chikkaballapura
+739,Kasaba,Magadi,Ramanagara
+740,Madabal,Magadi,Ramanagara
+741,Soluru,Magadi,Ramanagara
+742,Kuduru,Magadi,Ramanagara
+743,Tippasandra,Magadi,Ramanagara
+744,Kutagala,Ramanagar,Ramanagara
+745,Kasaba1,Ramanagar,Ramanagara
+746,Kasaba2,Ramanagar,Ramanagara
+747,Kailancha-1,Ramanagar,Ramanagara
+748,Kailancha-2,Ramanagar,Ramanagara
+749,Bidadi 1,Ramanagar,Ramanagara
+750,Bidadi 2,Ramanagar,Ramanagara
+751,Kasaba,Channapatna,Ramanagara
+752,Maluru,Channapatna,Ramanagara
+753,Virupakshipura,Channapatna,Ramanagara
+754,Kasaba,Kanakpura,Ramanagara
+755,Satanuru,Kanakpura,Ramanagara
+756,Kodihalli,Kanakpura,Ramanagara
+757,Uyyamballi,Kanakpura,Ramanagara
+758,Harohalli,Harohalli,Ramanagara
+759,Maralavadi,Harohalli,Ramanagara
+760,Hattikuni,Yadgir,Yadgir
+761,Balichakra,Yadgir,Yadgir
+762,Saidapora,Yadgir,Yadgir
+763,Yadagiri,Yadgir,Yadgir
+764,Shahapura,Shahapur,Yadgir
+765,Gogi,Shahapur,Yadgir
+766,Doranalli,Shahapur,Yadgir
+767,Haiyyala  b,Shahapur,Yadgir
+768,Shorapura,Shorapur,Yadgir
+769,Kakkera,Shorapur,Yadgir
+770,Hunasigi,Shorapur,Yadgir
+771,Kembhavi,Shorapur,Yadgir
+772,Gurumitakala,Gurumithakala,Yadgir
+773,Balichakra,Gurumithakala,Yadgir
+774,Saidapora,Gurumithakala,Yadgir
+775,Konkala,Gurumithakala,Yadgir
+776,Doranalli,Vadagera,Yadgir
+777,Haiyyala  b,Vadagera,Yadgir
+778,Vadagera,Vadagera,Yadgir
+779,Kakkera,Hunisigi,Yadgir
+780,Hunasigi,Hunisigi,Yadgir
+781,Kodekal,Hunisigi,Yadgir
+782,Hosapete,Hospet,Vijayanagara
+783,Kamalapura,Hospet,Vijayanagara
+784,Mariyammanahalli,Hospet,Vijayanagara
+785,Kudligi,Kudligi,Vijayanagara
+786,Gudekote,Kudligi,Vijayanagara
+787,Hosahalli,Kudligi,Vijayanagara
+788,Hagaribommanahalli,Hagaribommanahalli,Vijayanagara
+789,Hampasagara,Hagaribommanahalli,Vijayanagara
+790,Tambrahalli,Hagaribommanahalli,Vijayanagara
+791,Arasikeri,Harapanahalli,Vijayanagara
+792,Chigateri,Harapanahalli,Vijayanagara
+793,Kasaba,Harapanahalli,Vijayanagara
+794,Telagi,Harapanahalli,Vijayanagara
+795,Kogali,Kotturu,Vijayanagara
+796,Kotturu,Kotturu,Vijayanagara
+797,Hadagali,Hadagali,Vijayanagara
+798,Ittigi,Hadagali,Vijayanagara
+799,Hirehadagali,Hadagali,Vijayanagara
