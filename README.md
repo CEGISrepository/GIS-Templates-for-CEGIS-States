@@ -14,7 +14,7 @@ Shapefiles are available for different administrative levels, generally:
 - Sub-Districts
 - Gram Panchayats/Villages
 
-### Note
+#### Note
 The Administration levels have different names in different states or might have added levels of administration. Kindly refer to the README.md for the particular state for the same.
 
 ## Known Issues
