@@ -18,7 +18,7 @@ Shapefiles are available for different administrative levels, generally:
 - To use the GIS templates efficiently, it is recommended to run a check on your csv data to check the spellings of the column names, specifically division names. 
 - The Administration levels have different names in different states or might have added levels of administration. Kindly refer to the README.md and spelling repository for the particular state for the same.
 - If .shp file is being used, please make sure all the other supporting files are in the same folder as the .shp file. Similarly upload the supporting files in the same directory on Colab while running the Python code.
-- While loading your data for visualization, please make sure that the column names align with the shapefiles column names. If not kindly make the changes to the column names. Every state folder contains "Spellings Repository- State_Division.csv" which can be referred for all these spellings.
+- While loading your data for visualization, please make sure that the column names align with the shapefiles column names. If not, kindly make the changes to the column names. Every state folder contains "Spellings Repository- State_Division.csv" which can be referred for all these spellings.
 - Further details like last updated shapefiles, sources and discrepancies will be available in README.md files in respective state folders. 
 
 ## Usage Instructions for different platforms
