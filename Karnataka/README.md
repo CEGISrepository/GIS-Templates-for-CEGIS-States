@@ -12,7 +12,7 @@ Combinations of different levels are also available, namely:
 - District-Wise Hobli division
 - Taluk-Wise Hobli division within each district
 
-#### The respective column names for the divisions are as follows:
+### The respective column names for the divisions are as follows:
 
 - District name- d_name
 - District id- d_id
@@ -22,6 +22,9 @@ Combinations of different levels are also available, namely:
 - Hobli name - h_name
 - Village name- v_name
 - Village id- v_id
+
+### Date of update and source of the shapefiles
+- to be updated by kaydar
 
 ## Known Issues
 For Hobli level, districts Kalaburgi and Belagavi do not have shapefiles.
