@@ -48,7 +48,7 @@ Shapefiles are available for different administrative levels, generally:
 - Drag the field you want to plot as colour into colour tab
 
 ### [Google Colab Python Choropleth](https://colab.research.google.com/drive/1UdmjZBsgxkSrZx8AfWu-ip4dRX0veVMx?usp=sharing)
-- Open google colab notebook
+- Open google colab notebook from the link above, and be sure to click the "open using Google Colaboratory" option on the top.
 - Paste/Upload shapefile and other supporting files (.dbf, .shx, .cpg etc) and the csv file containing the data on the files tab in Colab session found on the left sidebar usually. 
 - Copy path of files by right clicking on the file and clicking on "Copy as path".
 - Paste the paths wherever indicated for shapefile and csv each.
@@ -56,7 +56,7 @@ Shapefiles are available for different administrative levels, generally:
 - Dependencies: python, plotly, matplotlib, geopandas, numpy (will be installed in the code itself)
 - Note: For the csv, ensure that there are only TWO columns in the file:
   - Administrative Boundary as 'd_name', 'sd_name', 'v_name' etc.
-  - The indicator being visualized. Name may be anything
+  - The indicator being visualized. Name may be anything.
 
 
 ## Known Issues
