@@ -54,6 +54,8 @@ Shapefiles are available for different administrative levels, generally:
 - Paste the paths wherever indicated for shapefile and csv each.
 - Go to Runtime-> Run all
 - Dependencies: python, plotly, matplotlib, geopandas, numpy (will be installed in the code itself)
+- NOTE: For the csv, ensure that there are only TWO columns in the file:
+- - ff
 
 
 ## Known Issues
