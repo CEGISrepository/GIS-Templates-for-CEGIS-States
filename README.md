@@ -55,7 +55,8 @@ Shapefiles are available for different administrative levels, generally:
 - Go to Runtime-> Run all
 - Dependencies: python, plotly, matplotlib, geopandas, numpy (will be installed in the code itself)
 - NOTE: For the csv, ensure that there are only TWO columns in the file:
-- - ff
+  - Administrative Boundary as 'd_name', 'sd_name', 'v_name' etc.
+  - The indicator being visualized. Name may be anything
 
 
 ## Known Issues
