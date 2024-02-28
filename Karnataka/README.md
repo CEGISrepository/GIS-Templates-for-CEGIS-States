@@ -24,7 +24,7 @@ Combinations of different levels are also available, namely:
 - Village id- v_id
 
 ### Date of update and source of the shapefiles
-- to be updated by kaydar
+- All shapefiles taken from [Karnataka GIS](https://kgis.ksrsac.in/kgis/downloads.aspx)
 
 ## Known Issues
 For Hobli level, districts Kalaburgi and Belagavi do not have shapefiles.
