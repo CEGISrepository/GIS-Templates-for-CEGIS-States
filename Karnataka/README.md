@@ -5,12 +5,15 @@ Shapefiles are available for the following levels of administration:
 - State  
 - District  
 - Sub-District or Taluk  
-- Hobli
+- Hobli (an administrative division between village and taluk only in KA)
+- Village
 
 Combinations of different levels are also available, namely:  
 - District-Wise Taluk division
 - District-Wise Hobli division
+- District-Wise Village
 - Taluk-Wise Hobli division within each district
+- Taluk-Wise Village division within each district
 
 ### The respective column names for the divisions are as follows:
 
@@ -25,8 +28,9 @@ Combinations of different levels are also available, namely:
 
 ### Date of update and source of the shapefiles
 - All shapefiles taken from [Karnataka GIS](https://kgis.ksrsac.in/kgis/downloads.aspx)
+- Information was sourced in February 2024. If this repository is being viewed on a later date then kindly cross-check if any administrative re-organization has taken place before using the files.
 
 ## Known Issues
-For Hobli level, districts Kalaburgi and Belagavi do not have shapefiles.
-
+- For Hobli level and Village, districts Kalaburgi and Belagavi do not have shapefiles.
+- Combination shapefiles with MLA/MP constituencies are not available because their boundaries don't exactly overlap with other admin boundaries (district/sub-district/hobli/village)
 
