@@ -31,6 +31,6 @@ Combinations of different levels are also available, namely:
 - As of February 2024, no up to date village-level shapefiles were found for Telangana state
 - All available shapefiles with PC boundaries are not drawn properly, so we had to overlay the shapefile with the mandal shapefile and estimate which mandals belonged in what PC
   - Another effect of this issue was that the Hyderabad and Secunderabad constituencies were more poor than other PCs, and had to be combined to get a more accurate shapefile
-  - No combination files with Assembly Constituencies (AC)
-    - They have the same problem as the PC files and we are planning to map mandals to Assembly Constituencies in the same way we did for PCs
+- No combination files with Assembly Constituencies (AC)
+  - They have the same problem as the PC files and we are planning to map mandals to Assembly Constituencies in the same way we did for PCs
 
