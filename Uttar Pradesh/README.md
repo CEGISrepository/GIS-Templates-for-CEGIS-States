@@ -1,4 +1,4 @@
-#### The following districts are not available in the shapefiles present in GP level files for UP
+#### The following districts are not available in the shapefiles present in GP level and block level files for UP
 
 - barabanki
 - maharajganj
